@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    font-size: x-large;
+    text-align: center;
+    font-weight:700 ;
+    color: #8f8989;
+}
+p{
+    font-size:x-large;
+    text-align:center;
+    font-weight: 500;
+    font-style: italic;
+    color: #fff;
+
+}
+ol{
+    text-align:left;
+    font-size: large;
+    font-weight: 100;
+    color: #fff;
+}
+body{
+    display: flex;
+    
+    min-height: 100vh;
+    background-image: url(img/sexy-rihanna-in-concert-gxxubeozj3htb2hj.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.btn{
+    border-radius: 5%;
+    margin-top: 30px;
+    width: 70%;
+    line-height: 25px;
+    background: #8f8989;
+}
+
+section{
+    text-align: center;
+    margin-left: 30px;
+}
